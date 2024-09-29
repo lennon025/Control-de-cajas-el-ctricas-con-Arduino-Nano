@@ -1,4 +1,6 @@
-Control de cajas electricas con Arduino, utilizando llaves magnéticas RFID y bluetooth.
+Control de cajas electricas con Arduino, utilizando llaves magnéticas RFID y bluetooth. Управление электрическими шкафами с помощью Arduino, RFID-ключей и Bluetooth.
+
+Texto en español y en ruso / Текст на испанском и русском языках
 
 El siguiente prototipo electrónico permite el encendido y apagado de cualquier dispositivo eléctrico o electrónico mediante la ejecución de uno o varios interruptores electromagnéticos relés. Para ello se utiliza un microcontrolador de tipo Arduino con un código escrito en el básico lenguaje de programación “C” para el control de los diferentes módulos y componentes electrónicos.
 
@@ -7,7 +9,6 @@ El circuito se diseñó para controlar un Contactor eléctrico que se encarga de
 En caso de usarse para controlar otros actuadores de mayor consumo mediante el relé SSR-40AD también es recomendable instalar este relé sobre otra superficie donde pueda disipar el calor.
 
 
-Управление электрическими шкафами с помощью Arduino, RFID-ключей и Bluetooth
 
 Следующий электронный прототип позволяет включать и выключать любое электрическое или электронное устройство с помощью одного или нескольких электромагнитных переключателей (реле), управляемых RFID-ключами. Для этого используется микроконтроллер типа Arduino с кодом, написанным на базовом языке программирования "C" для управления различными модулями и электронными компонентами.
 
